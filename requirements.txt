@@ -1,0 +1,16 @@
+# --- Web UI ---
+streamlit>=1.37
+
+# --- Data validation / structured outputs ---
+pydantic>=2.6
+
+# --- LLM provider (this project uses OpenAI exclusively) ---
+openai>=1.30
+
+# --- Document parsing ---
+python-docx>=1.1              # reads .docx files
+pypdf>=4.2                    # reads .pdf files
+
+# --- Config / utilities ---
+python-dotenv>=1.0            # loads .env file into environment variables
+pandas>=2.2                   # used by the Streamlit app to display the results table

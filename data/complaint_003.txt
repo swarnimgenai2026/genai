@@ -1,0 +1,18 @@
+From: Deepak Verma <deepak.verma@example.com>
+Subject: Delayed delivery of order #77213
+
+Hello team,
+
+My order #77213 (Wireless Ear Buds - Black) was supposed to arrive on
+12th August but it is now 5 days late with no tracking update. Could
+you please let me know the status?
+
+Thanks,
+Deepak
+
+---
+Internal note: Checked with logistics partner; package was delayed at
+the regional hub due to a weather disruption. Package delivered on 18th
+August, one day after this internal note. Customer was informed via
+email and a 10% discount coupon was issued for the inconvenience.
+Case closed with customer confirmation of receipt.

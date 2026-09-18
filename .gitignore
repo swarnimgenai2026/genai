@@ -1,0 +1,25 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs (keep the folder via .gitkeep, ignore the actual log file)
+logs/*.log
+!logs/.gitkeep
+
+# Generated outputs (keep folder structure via .gitkeep, ignore contents)
+output/structured_data/*
+output/customer_emails/*
+output/case_summaries/*
+output/final_report.csv
+!output/structured_data/.gitkeep
+!output/customer_emails/.gitkeep
+!output/case_summaries/.gitkeep
+
+# OS
+.DS_Store

@@ -1,0 +1,23 @@
+Customer Name: Rohit Sharma
+Email: rohit.sharma87@example.com
+Phone: +91-9876543210
+Product/Service: SmartHome Wi-Fi Router (Model X200)
+
+Complaint Description:
+I purchased the SmartHome Wi-Fi Router three weeks ago and it has been
+disconnecting randomly at least 5-6 times a day. I have already tried
+resetting the router twice as suggested by your support chat, but the
+issue persists. This is severely affecting my work-from-home setup.
+
+Resolution Provided:
+Support agent Priya acknowledged the issue on call and issued a
+replacement unit, which is expected to be delivered within 5 business
+days. A complimentary 3-month extension of the warranty was also added
+to the account.
+
+Escalation Information:
+Not escalated further; the replacement was agreed to resolve the issue.
+
+Supporting Information:
+Screenshot of the Wi-Fi disconnect logs was attached to the original
+support ticket (ticket #48213).
